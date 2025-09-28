@@ -1,0 +1,14 @@
+langchain>=0.2.0
+langgraph>=0.0.50
+chromadb>=0.5.0
+transformers>=4.41.0
+sentence-transformers
+langchain_openai
+langchain_community
+matplotlib
+nltk
+sqlite-utils
+jupyter
+openai
+rich>=13.0.0
+tiktoken

@@ -1,0 +1,6 @@
+
+Databases are organized collections of structured information or data,
+typically stored electronically in a computer system.
+Artificial intelligence (AI) refers to systems that can perform tasks that
+normally require human intelligence, such as reasoning and learning.
+LLM-based agents combine large language models with external tools.
