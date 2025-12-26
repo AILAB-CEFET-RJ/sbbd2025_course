@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+notebooks/data/chroma_store/chroma.sqlite3
+notebooks/data/chroma_store/2c47a20c-cf5d-41d8-be87-a1220f8525c5/data_level0.bin
+notebooks/data/chroma_store/2c47a20c-cf5d-41d8-be87-a1220f8525c5/header.bin
+notebooks/data/chroma_store/2c47a20c-cf5d-41d8-be87-a1220f8525c5/length.bin
+notebooks/data/chroma_store/2c47a20c-cf5d-41d8-be87-a1220f8525c5/link_lists.bin
+notebooks/data/chroma_store/da0d5a94-8944-4880-adc7-3e898686bc07/data_level0.bin
+notebooks/data/chroma_store/da0d5a94-8944-4880-adc7-3e898686bc07/header.bin
+notebooks/data/chroma_store/da0d5a94-8944-4880-adc7-3e898686bc07/length.bin
+notebooks/data/chroma_store/da0d5a94-8944-4880-adc7-3e898686bc07/link_lists.bin
+.DS_Store
+notebooks/data/chroma_store/chroma.sqlite3
+notebooks/data/chroma_store/chroma.sqlite3
